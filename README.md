@@ -1,2 +1,2 @@
-# csharpowered
-_Este es un repo para subir a github mis practicas del lenguaje de programacion C#._
+# EASY-STOCK
+_ is a product warehouse control software._
